@@ -1,26 +1,29 @@
-# BMI Calculator
+# Advanced BMI Calculator
 
-# Description
+## Overview
 
-BMI Calculator is a Python application that calculates Body Mass Index (BMI) using a user's weight and height.
+This project is an Advanced BMI Calculator developed using Python and Tkinter.
 
-# Features
+## Features
 
-1. BMI Calculation
-2. BMI Category Classification
-3. Input Validation
-4. Data Storage
-5. User-Friendly Interface
+* GUI Interface
+* BMI Calculation
+* BMI Classification
+* User Information Storage
+* Record History Viewer
+* Error Handling
 
-# BMI Formula
+## Technologies Used
 
- * BMI = Weight (kg) / Height² (m²) 
+* Python
+* Tkinter
+* File Handling
 
-# Technologies Used
-
-1. Python
-2. File Handling
-
-# How to Run
+## How to Run
 
 python bmi_calculator.py
+
+## BMI Formula
+
+BMI = Weight (kg) / Height² (m²)
+

@@ -1,3 +1,0 @@
-Rajini, 50.0, 1.6, 19.53, Normal Weight
-kruthika, 56.0, 1.55, 23.31, Normal Weight
-Sravanthi, 55.0, 1.1, 45.45, Obese
